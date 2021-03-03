@@ -4,6 +4,8 @@ Haskell is my favorite programming language.
 
 Pro free and open source software, and **anti GAFAM monopoly**.
 
+We are self-hosting alternative services in [fai.su](https://fai.su)
+
 More about me in [my homepage](https://nei.su).
 
 <!--
