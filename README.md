@@ -1,4 +1,10 @@
-### Hi there 👋
+Interested in theoretical fundamentals of computing, programming languages and paradigms, compilers, algorithms...
+
+Haskell is my favorite programming language.
+
+Pro free and open source software, and anti GAFAM.
+
+More about me in [my homepage](https://nei.su).
 
 <!--
 **Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
