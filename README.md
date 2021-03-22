@@ -2,7 +2,7 @@ Interested in theoretical fundamentals of computing, programming languages and p
 
 Haskell is my favorite programming language.
 
-Pro free and open source software, and **anti GAFAM monopoly**.
+Pro free and open source software, and anti GAFAM.
 
 We are self-hosting alternative services in [fai.su](https://fai.su).
 
