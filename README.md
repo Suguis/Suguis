@@ -1,12 +1,8 @@
-Interested in theoretical fundamentals of computing, programming languages and paradigms, compilers, algorithms...
+I'm a Computer Science student at the University of Vigo.
 
-Haskell is my favorite programming language.
+I'm interested in fields related on programming languages and paradigms, logic in computer science and theoretical computer science.
 
-Pro free and open source software, and anti GAFAM.
-
-We are self-hosting alternative services in [fai.su](https://fai.su).
-
-More about me in [my homepage](https://nei.su).
+My favourite programming languages are Haskell and Prolog.
 
 <!--
 **Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
