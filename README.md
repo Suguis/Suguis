@@ -2,7 +2,7 @@ I'm a Computer Science student at the University of Vigo.
 
 I'm interested in fields related on programming languages and paradigms, logic in computer science and theoretical computer science.
 
-My favourite programming languages is Haskell.
+My favourite programming language is Haskell.
 
 <!--
 **Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
