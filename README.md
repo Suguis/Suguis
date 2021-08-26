@@ -1,8 +1,10 @@
-I'm a Computer Science student at the University of Vigo.
+I'm an Informatics Engineering student at the University of Vigo.
 
-I'm interested in fields related on programming languages and paradigms, logic in computer science and theoretical computer science.
+My GitHub repos are mainly non-serious projects, projects for learning myself or personal projects.
 
-My favourite programming language is Haskell.
+- 🔭 My current interests are programming languages, type theory, proof assistants and functional programming.
+- 📘 I'm currently reading [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) to learn about PLT and Type Theory.
+- ⭐ Haskell is my favorite PL.
 
 <!--
 **Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
