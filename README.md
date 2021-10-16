@@ -2,9 +2,7 @@ I'm an Informatics Engineering student at the University of Vigo.
 
 My GitHub repos are mainly non-serious projects, projects for learning myself or personal projects.
 
-- 🔭 My current interests are programming languages, type theory, proof assistants and functional programming.
-- 📘 I'm currently reading [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/) to learn about PLT and Type Theory.
-- ⭐ Haskell is my favorite PL.
+- 🔭 My current interests are Type Theory, Programming Languages Theory and Implementation, Proof Assistants and Functional Programming. Also curious about HoTT, Category Theory, formalization of Mathematics and Theoretical CS.
 
 <!--
 **Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
