@@ -1,4 +1,4 @@
-I'm an Informatics Engineering student at the University of Vigo.
+I'm a CS student.
 
 My GitHub repos are mainly non-serious projects, projects for learning myself or personal projects.
 
