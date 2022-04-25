@@ -2,8 +2,7 @@ I'm a CS student.
 
 My GitHub repos are mainly non-serious projects, projects for learning myself or personal projects.
 
-- 🔭 My current interests are Type Theory, Programming Languages Theory and Implementation, Proof Assistants and Functional Programming. Also curious about HoTT, Category Theory, formalization of Mathematics and Theoretical CS.
-
+- 🔭 My interests range from proof assistants, type theory, the foundations of mathematics, formalization of mathematics, and logic.
 <!--
 **Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
