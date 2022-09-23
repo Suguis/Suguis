@@ -1,8 +1,11 @@
+<!--
 I'm a CS student.
 
 My GitHub repos are mainly non-serious projects, projects for learning myself or personal projects.
 
 - 🔭 My interests range from proof assistants, type theory, the foundations of mathematics, formalization of mathematics, and logic.
+-->
+
 <!--
 **Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
