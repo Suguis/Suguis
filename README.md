@@ -1,10 +1,6 @@
-<!--
-I'm a CS student.
+Hello! I'm Sugui, a software developer who likes doing things with pace and care.
 
-My GitHub repos are mainly non-serious projects, projects for learning myself or personal projects.
-
-- 🔭 My interests range from proof assistants, type theory, the foundations of mathematics, formalization of mathematics, and logic.
--->
+I have other projects in [my profile](https://git.fai.st/Suguivy) of our Forgejo instance.
 
 <!--
 **Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
