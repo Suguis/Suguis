@@ -1,10 +1,6 @@
 # 🤗 Intro
 Hello! I'm Anaís (she/her), a Software Engineer, DevOps and Linux enthusiast.
 
-- 📚 Learning about automating development and deployment workflows with CI/CD pipelines,
-- 🔎 Looking forward to move to a professional DevOps role.
-- ☸️🍇🍇 Have a Kubernetes cluster at home with 2 Raspberry Pi!
-
 # 🖥️ Technologies I use professionally
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,7 +14,7 @@ Hello! I'm Anaís (she/her), a Software Engineer, DevOps and Linux enthusiast.
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-# 🌻 Technologies I use on side projects
+# 🌻 Technologies I use personally
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white)
