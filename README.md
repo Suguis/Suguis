@@ -24,7 +24,7 @@ Hello! I'm Anaís (she/her), a Software Engineer, DevOps and Linux enthusiast.
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-I have more projects in [my profile](https://git.fai.st/Suguivy) of our Forgejo instance.
+<!--I have more projects in [my profile](https://git.fai.st/Suguivy) of our Forgejo instance.-->
 
 <!--
 **Suguivy/Suguivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
