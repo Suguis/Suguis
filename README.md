@@ -4,7 +4,7 @@ Software engineer, passionate about functional programming and testing.
 
 ![Suguis's Stats](https://github-readme-stats.vercel.app/api?username=Suguis&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![Suguis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suguis&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Suguis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suguis&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 <!--I have more projects in [my profile](https://git.fai.st/Suguivy) of our Forgejo instance.-->
 
