@@ -1,5 +1,10 @@
-# 🤗 Intro
-Hello! I'm Anaís (she/her), a Software Engineer, DevOps and Linux enthusiast.
+## Hi, I'm Anaís 🌻
+
+Software engineer, passionate about functional programming and testing.
+
+![Suguis's Stats](https://github-readme-stats.vercel.app/api?username=Suguis&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![Suguis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suguis&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--I have more projects in [my profile](https://git.fai.st/Suguivy) of our Forgejo instance.-->
 
